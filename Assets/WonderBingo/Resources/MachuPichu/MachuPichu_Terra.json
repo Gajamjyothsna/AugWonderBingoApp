@@ -1,0 +1,178 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the capital of Peru?",
+          "answer": "Lima",
+          "oneLiner": "The largest city and cultural hub of Peru."
+        },
+        {
+          "index": 2,
+          "question": "Which river is the longest in Peru?",
+          "answer": "Ucayali",
+          "oneLiner": "A major tributary of the Amazon River."
+        },
+        {
+          "index": 3,
+          "question": "What is the largest lake in Peru?",
+          "answer": "Titicaca",
+          "oneLiner": "Shared with Bolivia and known for its cultural significance."
+        },
+        {
+          "index": 4,
+          "question": "Which mountain range runs through Peru?",
+          "answer": "Andes",
+          "oneLiner": "The longest continental mountain range in the world."
+        },
+        {
+          "index": 5,
+          "question": "Which famous ancient city is a UNESCO World Heritage site?",
+          "answer": "Machu Picchu",
+          "oneLiner": "A well-preserved Inca archaeological site."
+        },
+        {
+          "index": 6,
+          "question": "Which desert region in Peru is famous for mysterious lines?",
+          "answer": "Nazca",
+          "oneLiner": "Known for ancient geoglyphs visible from the air."
+        },
+        {
+          "index": 7,
+          "question": "What is the highest navigable lake in the world?",
+          "answer": "Titicaca",
+          "oneLiner": "Renowned for its altitude and cultural heritage."
+        },
+        {
+          "index": 8,
+          "question": "Which Peruvian region is known for its unique terraces?",
+          "answer": "Sacred Valley",
+          "oneLiner": "A fertile area crucial for Inca agriculture."
+        },
+        {
+          "index": 9,
+          "question": "What large canyon is twice as deep as the Grand Canyon?",
+          "answer": "Colca Canyon",
+          "oneLiner": "A stunning natural feature in southern Peru."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the highest mountain in Peru?",
+          "answer": "Huascarán",
+          "oneLiner": "The tallest peak in the Andes of Peru."
+        },
+        {
+          "index": 2,
+          "question": "Which river basin covers most of northern Peru?",
+          "answer": "Amazon",
+          "oneLiner": "The world's largest tropical rainforest basin."
+        },
+        {
+          "index": 3,
+          "question": "Which city is known as the 'White City' due to volcanic stone?",
+          "answer": "Arequipa",
+          "oneLiner": "Built largely from white volcanic sillar stone."
+        },
+        {
+          "index": 4,
+          "question": "What unique Peruvian ecosystem is located in the Amazon?",
+          "answer": "Rainforest",
+          "oneLiner": "Home to diverse flora and fauna."
+        },
+        {
+          "index": 5,
+          "question": "Which region of Peru is famous for its high-altitude salt mines?",
+          "answer": "Maras",
+          "oneLiner": "Known for its ancient salt evaporation ponds."
+        },
+        {
+          "index": 6,
+          "question": "Which cultural festival in Cusco celebrates Incan traditions?",
+          "answer": "Inti Raymi",
+          "oneLiner": "A festival honoring the sun god Inti."
+        },
+        {
+          "index": 7,
+          "question": "Which type of dolphin is the Amazon known for?",
+          "answer": "Pink dolphins",
+          "oneLiner": "Unique freshwater dolphins of the Amazon River."
+        },
+        {
+          "index": 8,
+          "question": "What is the famous floating island community in Peru?",
+          "answer": "Uros",
+          "oneLiner": "Artificial islands made of reeds on Lake Titicaca."
+        },
+        {
+          "index": 9,
+          "question": "Which mountain is known for its rainbow-colored layers?",
+          "answer": "Vinicunca",
+          "oneLiner": "Popularly called the Rainbow Mountain."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "Which coastal city is known for surfing and pre-Columbian ruins?",
+          "answer": "Trujillo",
+          "oneLiner": "Known for its beaches and ancient archaeological sites."
+        },
+        {
+          "index": 2,
+          "question": "Which Peruvian region is home to the Manu Biosphere Reserve?",
+          "answer": "Madre de Dios",
+          "oneLiner": "A biodiversity hotspot in the Amazon."
+        },
+        {
+          "index": 3,
+          "question": "What unique Peruvian dish features raw fish in citrus marinade?",
+          "answer": "Ceviche",
+          "oneLiner": "A national dish of Peru."
+        },
+        {
+          "index": 4,
+          "question": "Which region of Peru is famous for its pre-Inca civilization, Chavín?",
+          "answer": "Ancash",
+          "oneLiner": "Home to the ancient Chavín de Huantar site."
+        },
+        {
+          "index": 5,
+          "question": "Which river meets the Amazon near Iquitos?",
+          "answer": "Marañón",
+          "oneLiner": "A major tributary of the Amazon River."
+        },
+        {
+          "index": 6,
+          "question": "What high-altitude plateau is shared with Bolivia?",
+          "answer": "Altiplano",
+          "oneLiner": "Known for its striking landscapes and cultural sites."
+        },
+        {
+          "index": 7,
+          "question": "Which Peruvian city is famous for its colonial architecture and wine?",
+          "answer": "Ica",
+          "oneLiner": "Renowned for its vineyards and pisco production."
+        },
+        {
+          "index": 8,
+          "question": "Which coastal desert is known for its giant sand dunes?",
+          "answer": "Huacachina",
+          "oneLiner": "An oasis surrounded by towering dunes."
+        },
+        {
+          "index": 9,
+          "question": "Which large bird species is iconic in Colca Canyon?",
+          "answer": "Condor",
+          "oneLiner": "One of the world's largest flying birds."
+        }
+      ]
+    }
+  ]
+}

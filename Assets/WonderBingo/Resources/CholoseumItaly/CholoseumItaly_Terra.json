@@ -1,0 +1,178 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the capital of Italy?",
+          "answer": "Rome",
+          "oneLiner": "Known as the Eternal City and Italy's political center."
+        },
+        {
+          "index": 2,
+          "question": "Which river is the longest in Italy?",
+          "answer": "Po",
+          "oneLiner": "A vital waterway flowing across northern Italy."
+        },
+        {
+          "index": 3,
+          "question": "What is the largest island in Italy?",
+          "answer": "Sicily",
+          "oneLiner": "A culturally rich island in the Mediterranean."
+        },
+        {
+          "index": 4,
+          "question": "Which mountain range runs through Italy?",
+          "answer": "Apennines",
+          "oneLiner": "Known as the 'spine' of Italy."
+        },
+        {
+          "index": 5,
+          "question": "Which sea borders Italy to the west?",
+          "answer": "Tyrrhenian",
+          "oneLiner": "Part of the Mediterranean Sea."
+        },
+        {
+          "index": 6,
+          "question": "What is the unique leaning structure in Tuscany?",
+          "answer": "Pisa Tower",
+          "oneLiner": "A famous architectural anomaly in Pisa."
+        },
+        {
+          "index": 7,
+          "question": "Which volcano is famous for its eruption in 79 AD?",
+          "answer": "Vesuvius",
+          "oneLiner": "Known for destroying Pompeii and Herculaneum."
+        },
+        {
+          "index": 8,
+          "question": "Which city is built on canals instead of streets?",
+          "answer": "Venice",
+          "oneLiner": "A unique city of waterways."
+        },
+        {
+          "index": 9,
+          "question": "Which region is famous for producing Italian marble?",
+          "answer": "Carrara",
+          "oneLiner": "Renowned for its high-quality white marble."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is Italy’s highest mountain?",
+          "answer": "Mont Blanc",
+          "oneLiner": "Shared with France, it is the tallest peak in the Alps."
+        },
+        {
+          "index": 2,
+          "question": "Which sea borders Italy to the east?",
+          "answer": "Adriatic",
+          "oneLiner": "A sea separating Italy from the Balkan Peninsula."
+        },
+        {
+          "index": 3,
+          "question": "What iconic structure in Rome is over 2,000 years old?",
+          "answer": "Colosseum",
+          "oneLiner": "A historic amphitheater used for gladiatorial games."
+        },
+        {
+          "index": 4,
+          "question": "Which island is famous for its Blue Grotto?",
+          "answer": "Capri",
+          "oneLiner": "Known for its stunning sea cave."
+        },
+        {
+          "index": 5,
+          "question": "Which region of Italy is known for its rolling hills and vineyards?",
+          "answer": "Tuscany",
+          "oneLiner": "A picturesque region famed for its wines and landscapes."
+        },
+        {
+          "index": 6,
+          "question": "Which city is famous for the annual gondola regatta?",
+          "answer": "Venice",
+          "oneLiner": "Hosts a traditional rowing event."
+        },
+        {
+          "index": 7,
+          "question": "What is the unique active volcano in Sicily?",
+          "answer": "Etna",
+          "oneLiner": "One of the world's most active volcanoes."
+        },
+        {
+          "index": 8,
+          "question": "What lake is Italy's largest?",
+          "answer": "Garda",
+          "oneLiner": "A scenic lake in northern Italy."
+        },
+        {
+          "index": 9,
+          "question": "Which region is famous for its distinct Greek heritage?",
+          "answer": "Calabria",
+          "oneLiner": "Known for ancient Greek influences."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "Which region is famous for its cliffside villages like Cinque Terre?",
+          "answer": "Liguria",
+          "oneLiner": "Home to colorful villages on rugged coastlines."
+        },
+        {
+          "index": 2,
+          "question": "What river runs through the city of Florence?",
+          "answer": "Arno",
+          "oneLiner": "A central feature of Tuscany's capital."
+        },
+        {
+          "index": 3,
+          "question": "Which Italian island is known for its rich Nuragic history?",
+          "answer": "Sardinia",
+          "oneLiner": "Famed for its ancient stone structures."
+        },
+        {
+          "index": 4,
+          "question": "Which mountain range forms Italy’s northern border?",
+          "answer": "Alps",
+          "oneLiner": "A natural barrier and winter sports destination."
+        },
+        {
+          "index": 5,
+          "question": "What city is known as the birthplace of the Renaissance?",
+          "answer": "Florence",
+          "oneLiner": "A cultural hub of art and architecture."
+        },
+        {
+          "index": 6,
+          "question": "Which Italian lake is famous for its villas and gardens?",
+          "answer": "Como",
+          "oneLiner": "A luxury retreat in northern Italy."
+        },
+        {
+          "index": 7,
+          "question": "What unique city-state is located entirely within Rome?",
+          "answer": "Vatican",
+          "oneLiner": "The smallest independent country in the world."
+        },
+        {
+          "index": 8,
+          "question": "Which southern coastal city is known for its archaeological sites?",
+          "answer": "Naples",
+          "oneLiner": "Close to Pompeii and Mount Vesuvius."
+        },
+        {
+          "index": 9,
+          "question": "Which region is famous for the trulli houses?",
+          "answer": "Puglia",
+          "oneLiner": "Known for its conical-roofed stone houses."
+        }
+      ]
+    }
+  ]
+}

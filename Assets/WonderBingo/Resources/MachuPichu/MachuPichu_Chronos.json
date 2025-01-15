@@ -1,0 +1,300 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "Which civilization built Machu Picchu?",
+            "answer": "Inca",
+            "oneLiner": "A powerful pre-Columbian civilization."
+          },
+          {
+            "index": 2,
+            "question": "In which century was Machu Picchu built?",
+            "answer": "15th century",
+            "oneLiner": "During the height of the Inca Empire."
+          },
+          {
+            "index": 3,
+            "question": "Who was the emperor who commissioned Machu Picchu?",
+            "answer": "Pachacuti",
+            "oneLiner": "The ninth Inca ruler."
+          },
+          {
+            "index": 4,
+            "question": "What was the primary purpose of Machu Picchu?",
+            "answer": "Royal estate",
+            "oneLiner": "A luxurious retreat for Inca royalty."
+          },
+          {
+            "index": 5,
+            "question": "Who rediscovered Machu Picchu in 1911?",
+            "answer": "Hiram Bingham",
+            "oneLiner": "An American historian and explorer."
+          },
+          {
+            "index": 6,
+            "question": "What was the name of the agricultural terraces used in Machu Picchu?",
+            "answer": "Andenes",
+            "oneLiner": "Ingenious stepped farming platforms."
+          },
+          {
+            "index": 7,
+            "question": "How did the Incas build Machu Picchu without mortar?",
+            "answer": "Ashlar masonry",
+            "oneLiner": "Stones perfectly cut to fit without cement."
+          },
+          {
+            "index": 8,
+            "question": "What was the main temple at Machu Picchu used for religious ceremonies?",
+            "answer": "Temple of the Sun",
+            "oneLiner": "Dedicated to solar worship."
+          },
+          {
+            "index": 9,
+            "question": "What event led to the abandonment of Machu Picchu?",
+            "answer": "Spanish conquest",
+            "oneLiner": "The fall of the Inca Empire."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What architectural style is Machu Picchu known for?",
+            "answer": "Inca architecture",
+            "oneLiner": "Characterized by precision stonework."
+          },
+          {
+            "index": 2,
+            "question": "What was the significance of the Intihuatana stone in Machu Picchu?",
+            "answer": "Solar clock",
+            "oneLiner": "Used to mark solstices."
+          },
+          {
+            "index": 3,
+            "question": "How did the Incas manage water at Machu Picchu?",
+            "answer": "Irrigation systems",
+            "oneLiner": "Advanced water management techniques."
+          },
+          {
+            "index": 4,
+            "question": "What was the main function of the agricultural terraces at Machu Picchu?",
+            "answer": "Farming",
+            "oneLiner": "Sustained crops in a challenging environment."
+          },
+          {
+            "index": 5,
+            "question": "How did the Inca empire expand under Pachacuti?",
+            "answer": "Conquest",
+            "oneLiner": "Through military campaigns and diplomacy."
+          },
+          {
+            "index": 6,
+            "question": "How did the Spanish conquest impact Machu Picchu?",
+            "answer": "Abandonment",
+            "oneLiner": "Left the site isolated and forgotten."
+          },
+          {
+            "index": 7,
+            "question": "What type of religious ceremonies were performed in the Temple of the Sun?",
+            "answer": "Sun worship",
+            "oneLiner": "Honored Inti, the sun god."
+          },
+          {
+            "index": 8,
+            "question": "What role did Machu Picchu play in the Inca road system?",
+            "answer": "Inca Trail connection",
+            "oneLiner": "Linked to Cusco and other important sites."
+          },
+          {
+            "index": 9,
+            "question": "What was the purpose of the Room of the Three Windows?",
+            "answer": "Ceremonial use",
+            "oneLiner": "Likely used for spiritual rituals."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "How did the Incas use astronomy in Machu Picchu?",
+            "answer": "Aligned with celestial events",
+            "oneLiner": "Integrated astronomy into architecture."
+          },
+          {
+            "index": 2,
+            "question": "What was Machu Picchu’s role in the Inca Empire?",
+            "answer": "Royal estate",
+            "oneLiner": "A retreat for Inca royalty and elite."
+          },
+          {
+            "index": 3,
+            "question": "What was the significance of the Sacred Plaza in Machu Picchu?",
+            "answer": "Ceremonial gatherings",
+            "oneLiner": "A central area for rituals."
+          },
+          {
+            "index": 4,
+            "question": "Who was the last emperor of the Inca Empire before Spanish conquest?",
+            "answer": "Atahualpa",
+            "oneLiner": "The final ruler before the fall of the empire."
+          },
+          {
+            "index": 5,
+            "question": "How did the Incas transport the large stones used in construction?",
+            "answer": "Manpower",
+            "oneLiner": "Labor-intensive methods without wheels."
+          },
+          {
+            "index": 6,
+            "question": "What historical records were used to identify Machu Picchu’s purpose?",
+            "answer": "Spanish chronicles",
+            "oneLiner": "Written accounts from colonial times."
+          },
+          {
+            "index": 7,
+            "question": "How did Machu Picchu's location provide defense against invaders?",
+            "answer": "Remote position",
+            "oneLiner": "Hidden high in the Andes Mountains."
+          },
+          {
+            "index": 8,
+            "question": "What was the role of the Temple of the Condor in Machu Picchu?",
+            "answer": "Religious site",
+            "oneLiner": "A spiritual place symbolizing a condor."
+          },
+          {
+            "index": 9,
+            "question": "What event is believed to have led to the construction of Machu Picchu?",
+            "answer": "Pachacuti's victory",
+            "oneLiner": "Commemorated his military achievements."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What material was primarily used to construct Machu Picchu?",
+            "answer": "Granite",
+            "oneLiner": "A durable local stone."
+          },
+          {
+            "index": 2,
+            "question": "How did Machu Picchu demonstrate the engineering skills of the Incas?",
+            "answer": "Earthquake-resistant",
+            "oneLiner": "Ingenious architecture that withstood tremors."
+          },
+          {
+            "index": 3,
+            "question": "What is the significance of the Royal Tomb at Machu Picchu?",
+            "answer": "Burial site",
+            "oneLiner": "Likely used for royal burials."
+          },
+          {
+            "index": 4,
+            "question": "How did the Incas control water flow through the city?",
+            "answer": "Stone channels",
+            "oneLiner": "Diverted water effectively throughout the site."
+          },
+          {
+            "index": 5,
+            "question": "What was the purpose of the Guardhouse in Machu Picchu?",
+            "answer": "Overlook",
+            "oneLiner": "Provided a vantage point for monitoring."
+          },
+          {
+            "index": 6,
+            "question": "How did Hiram Bingham contribute to Machu Picchu's history?",
+            "answer": "Rediscovery",
+            "oneLiner": "Brought global attention to the site."
+          },
+          {
+            "index": 7,
+            "question": "What ancient Andean civilization influenced Inca architecture at Machu Picchu?",
+            "answer": "Tiwanaku",
+            "oneLiner": "A pre-Inca culture with advanced engineering."
+          },
+          {
+            "index": 8,
+            "question": "How did the terraces at Machu Picchu help prevent landslides?",
+            "answer": "Stabilized slopes",
+            "oneLiner": "Prevented soil erosion effectively."
+          },
+          {
+            "index": 9,
+            "question": "What role did Machu Picchu play in the Incas' spiritual life?",
+            "answer": "Sacred site",
+            "oneLiner": "A center for worship and ceremonies."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What year was Machu Picchu designated as a UNESCO World Heritage Site?",
+            "answer": "1983",
+            "oneLiner": "Recognized for its cultural significance."
+          },
+          {
+            "index": 2,
+            "question": "How did Machu Picchu’s discovery impact Peruvian history?",
+            "answer": "National pride",
+            "oneLiner": "Became a symbol of Peru’s heritage."
+          },
+          {
+            "index": 3,
+            "question": "What role did Machu Picchu play in Inca religion?",
+            "answer": "Pilgrimage site",
+            "oneLiner": "A destination for spiritual journeys."
+          },
+          {
+            "index": 4,
+            "question": "What was the significance of the Sun Gate in Machu Picchu?",
+            "answer": "Inca Trail entrance",
+            "oneLiner": "The gateway for pilgrims arriving at the site."
+          },
+          {
+            "index": 5,
+            "question": "How was Machu Picchu connected to Cusco, the Inca capital?",
+            "answer": "Inca Trail",
+            "oneLiner": "A long path linking the two cities."
+          },
+          {
+            "index": 6,
+            "question": "How did the Spanish colonization affect knowledge of Machu Picchu?",
+            "answer": "Forgotten",
+            "oneLiner": "Lost to history during colonial rule."
+          },
+          {
+            "index": 7,
+            "question": "What was the purpose of the storage rooms in Machu Picchu?",
+            "answer": "Storing crops",
+            "oneLiner": "Used to preserve food for the inhabitants."
+          },
+          {
+            "index": 8,
+            "question": "How does Machu Picchu represent Inca innovation in agriculture?",
+            "answer": "Terraces",
+            "oneLiner": "An advanced system for growing crops."
+          },
+          {
+            "index": 9,
+            "question": "What role did the Incas' religious beliefs play in the design of Machu Picchu?",
+            "answer": "Sun alignment",
+            "oneLiner": "Built to honor and align with the sun."
+          }
+        ]
+      }
+      
+    ]
+  }
+  

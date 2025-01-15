@@ -1,0 +1,296 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "Who was the first emperor to begin the construction of the Great Wall?",
+            "answer": "Qin Shi Huang",
+            "oneLiner" : "The founder of the Qin Dynasty."
+          },
+          {
+            "index": 2,
+            "question": "In which century did the construction of the Great Wall start?",
+            "answer": "3rd century BC",
+            "oneLiner" : "During the Warring States period."
+          },
+          {
+            "index": 3,
+            "question": "What was the primary purpose of the Great Wall?",
+            "answer": "Defence",
+            "oneLiner" : "To protect against invasions."
+          },
+          {
+            "index": 4,
+            "question": "Which dynasty completed the majority of the Great Wall seen today?",
+            "answer": "Ming Dynasty",
+            "oneLiner" : "Builders of the most recognizable sections."
+          },
+          {
+            "index": 5,
+            "question": "How long is the Great Wall of China?",
+            "answer": "21,196 kilometers",
+            "oneLiner" : "The total length including all sections."
+          },
+          {
+            "index": 6,
+            "question": "What material was primarily used in the earliest sections of the wall?",
+            "answer": "Earth and wood",
+            "oneLiner" : "Basic materials used in ancient fortifications."
+          },
+          {
+            "index": 7,
+            "question": "What invaders was the Great Wall built to protect against?",
+            "answer": "Mongols",
+            "oneLiner" : "Nomadic tribes from the north."
+          },
+          {
+            "index": 8,
+            "question": "What was the original name of the Great Wall during the Qin Dynasty?",
+            "answer": "Wanli Changcheng",
+            "oneLiner" : "Translates to 'Ten Thousand Li Long Wall.'"
+          },
+          {
+            "index": 9,
+            "question": "How did the Great Wall contribute to China’s military strategy?",
+            "answer": "Border defence",
+            "oneLiner" : " A defensive barrier for protection."
+          }
+        ]
+      },
+      {
+       
+        "questions": [
+          {
+            "index": 1,
+            "question": "What type of military personnel were stationed along the Great Wall?",
+            "answer": "Soldiers and watchmen",
+            "oneLiner" : "Guardians of the wall and its surroundings."
+          },
+          {
+            "index": 2,
+            "question": "What dynasty started connecting earlier walls into a unified system?",
+            "answer": "Qin Dynasty",
+            "oneLiner" : "Unified China’s defences."
+          },
+          {
+            "index": 3,
+            "question": "How did the Great Wall help with communication during the Ming Dynasty?",
+            "answer": "Beacon towers",
+            "oneLiner" : "Used to relay signals and messages."
+          },
+          {
+            "index": 4,
+            "question": "What materials were used in the construction of the Ming-era wall?",
+            "answer": "Brick and stone",
+            "oneLiner" : "Durable materials for fortification."
+          },
+          {
+            "index": 5,
+            "question": "Who were the labourers that built the Great Wall?",
+            "answer": "Soldiers, peasants, prisoners",
+            "oneLiner" : "A workforce composed of various groups."
+          },
+          {
+            "index": 6,
+            "question": "Which ruler of the Ming Dynasty reinforced the wall against the Mongols?",
+            "answer": "Hongwu",
+            "oneLiner" : "The founder of the Ming Dynasty."
+          },
+          {
+            "index": 7,
+            "question": "What major historical event led to the expansion of the Great Wall during the Ming Dynasty?",
+            "answer": "Mongol invasions",
+            "oneLiner" : "A response to external threats."
+          },
+          {
+            "index": 8,
+            "question": "What was the significance of the watchtowers along the wall?",
+            "answer": "Surveillance",
+            "oneLiner" : "Provided visibility and security."
+          },
+          {
+            "index": 9,
+            "question": "What happened to the wall during the Qing Dynasty?",
+            "answer": "Neglected",
+            "oneLiner" : "Fell into disuse as threats diminished."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+        "index": 1,
+            "question": "What is the significance of the Great Wall in Chinese folklore?",
+            "answer": "Protection and unity",
+            "oneLiner" : "Symbolizes strength and resilience."
+          },
+          {
+        "index": 2,
+            "question": "What was the role of the Great Wall during the Han Dynasty?",
+            "answer": "Protected Silk Road",
+            "oneLiner" : "Guarded trade routes from threats."
+          },
+          {
+        "index": 3,
+            "question": "How did the construction of the Great Wall affect the Chinese population?",
+            "answer": "Forced labour",
+            "oneLiner" : "Workers were conscripted under harsh conditions."
+          },
+          {
+            "index": 4,
+            "question": "What important trading route was guarded by the Great Wall?",
+            "answer": "Silk Road",
+            "oneLiner" : "A major ancient trade route."
+          },
+          {
+            "index": 5,
+            "question": "Which dynasty added the famous brick sections of the wall?",
+            "answer": "Ming Dynasty",
+            "oneLiner" : "Enhanced the wall’s durability."
+          },
+          {
+            "index": 6,
+            "question": "What was the most significant architectural feature of the Great Wall during the Ming Dynasty?",
+            "answer": "Beacon towers",
+            "oneLiner" : "Used for signaling and communication."
+          },
+          {
+            "index": 7,
+            "question": "How did the Great Wall reflect the political power of the Chinese emperors?",
+            "answer": "Display of control",
+            "oneLiner" : "Demonstrated the emperor’s authority."
+          },
+          {
+            "index": 8,
+            "question": "How long did it take to build the Great Wall during the Qin Dynasty?",
+            "answer": "20 years",
+            "oneLiner" : "Length of initial construction efforts."
+          },
+          {
+            "index": 9,
+            "question": "What role did the Great Wall play in China's economy?",
+            "answer": "Controlled trade",
+            "oneLiner" : "Managed goods and taxed merchants."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What was the strategic importance of the Great Wall’s location?",
+            "answer": "Northern defence",
+            "oneLiner" : "Positioned to block northern invaders."
+          },
+          {
+            "index": 2,
+            "question": "Who was responsible for designing the early structure of the Great Wall?",
+            "answer": "Meng Tian",
+            "oneLiner" : "A general under Qin Shi Huang."
+          },
+          {
+            "index": 3,
+            "question": "How was the Great Wall used for military purposes beyond defence?",
+            "answer": "Enemy lookout",
+            "oneLiner" : "Monitored enemy movements."
+          },
+          {
+            "index": 4,
+            "question": "What was the cultural significance of the Great Wall in ancient China?",
+            "answer": "National strength",
+            "oneLiner" : "Symbolized unity and power."
+          },
+          {
+            "index": 5,
+            "question": "How did the construction of the Great Wall impact the natural landscape?",
+            "answer": "Altered terrain",
+            "oneLiner" : "Modified hills and valleys for construction."
+          },
+          {
+            "index": 6,
+            "question": "What was the primary method of communication between watchtowers?",
+            "answer": "Smoke signals",
+            "oneLiner" : "Used for rapid communication."
+          },
+          {
+            "index": 7,
+            "question": "What significant renovations were made to the Great Wall during the Ming Dynasty?",
+            "answer": "Fortification",
+            "oneLiner" : "Strengthened with bricks and towers."
+          },
+          {
+            "index": 8,
+            "question": "What role did the Great Wall play during the Manchu invasion?",
+            "answer": "Ineffective defence",
+            "oneLiner" : "Could not stop the invaders."
+          },
+          {
+            "index": 9,
+            "question": "How did the Great Wall influence China’s relationship with nomadic tribes?",
+            "answer": "Prevented raids",
+            "oneLiner" : "Reduced attacks on Chinese settlements."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What year was the Great Wall designated as a UNESCO World Heritage Site?",
+            "answer": "1987",
+            "oneLiner" : "Recognized for its historical significance."
+          },
+          {
+            "index": 2,
+            "question": "How did the Great Wall symbolise the isolationist policies of China?",
+            "answer": "Barrier",
+            "oneLiner" : "Represented separation from external influences."
+          },
+          {
+            "index": 3,
+            "question": "What defensive structures were built along the wall to protect soldiers?",
+            "answer": "Barracks",
+            "oneLiner" : "Provided shelter for troops."
+          },
+          {
+            "index": 4,
+            "question": "How did the construction of the Great Wall impact China's military tactics?",
+            "answer": "Fortified defence",
+            "oneLiner" : "Enhanced protection and strategy."
+          },
+          {
+            "index": 5,
+            "question": "Which emperor expanded the Great Wall to protect against northern tribes?",
+            "answer": "Han Wudi",
+            "oneLiner" : "A ruler of the Han Dynasty."
+          },
+          {
+            "index": 6,
+            "question": "What role did the Great Wall play during the Yuan Dynasty?",
+            "answer": "Limited use",
+            "oneLiner" : "Its significance diminished."
+          },
+          {
+            "index": 7,
+            "question": "What historical figure is often associated with building the early sections of the wall?",
+            "answer": "Qin Shi Huang",
+            "oneLiner" : "The first emperor of unified China."
+          },
+          {
+            "index": 8,
+            "question": "How did the Great Wall evolve after the Mongol Empire?",
+            "answer": "Expanded by Ming",
+            "oneLiner" : "Reinforced to counter threats."
+          },
+          {
+            "index": 9,
+            "question": "What was the significance of the Great Wall in modern Chinese culture?",
+            "answer": "Perseverance",
+            "oneLiner" : "Symbolizes determination and strength."
+          }
+        ]
+      }
+    ]
+  }
+  

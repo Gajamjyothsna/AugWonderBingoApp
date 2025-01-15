@@ -1,0 +1,182 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What is the capital of Brazil?",
+            "answer": "Brasília",
+            "oneLiner": "A planned city and the political capital of Brazil."
+          },
+          {
+            "index": 2,
+            "question": "Which river is the longest in Brazil?",
+            "answer": "Amazon",
+            "oneLiner": "The largest river by volume in the world."
+          },
+          {
+            "index": 3,
+            "question": "What is the largest Brazilian state by area?",
+            "answer": "Amazonas",
+            "oneLiner": "A state dominated by the Amazon Rainforest."
+          },
+          {
+            "index": 4,
+            "question": "Brazil shares its longest border with which country?",
+            "answer": "Bolivia",
+            "oneLiner": "A neighboring country to Brazil's southwest."
+          },
+          {
+            "index": 5,
+            "question": "Which region is home to Brazil’s Pantanal wetlands?",
+            "answer": "Central-West",
+            "oneLiner": "Known for its rich biodiversity and wetlands."
+          },
+          {
+            "index": 6,
+            "question": "What unique coastline formation does Brazil possess?",
+            "answer": "Longest Atlantic",
+            "oneLiner": "Features the longest Atlantic Ocean coastline."
+          },
+          {
+            "index": 7,
+            "question": "Which UNESCO World Heritage site lies near Argentina's border?",
+            "answer": "Iguaçu Falls",
+            "oneLiner": "A stunning series of waterfalls shared with Argentina."
+          },
+          {
+            "index": 8,
+            "question": "Which ecosystem covers much of northern Brazil?",
+            "answer": "Amazon Rainforest",
+            "oneLiner": "The world's largest tropical rainforest."
+          },
+          {
+            "index": 9,
+            "question": "What is the primary geological feature of Chapada Diamantina?",
+            "answer": "Plateaus",
+            "oneLiner": "A region with dramatic plateaus and valleys."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What is the highest point in Brazil?",
+            "answer": "Pico da Neblina",
+            "oneLiner": "A mountain in the Amazon region at 2,995 meters."
+          },
+          {
+            "index": 2,
+            "question": "Which ocean lies east of Brazil?",
+            "answer": "Atlantic",
+            "oneLiner": "Borders Brazil's entire eastern coastline."
+          },
+          {
+            "index": 3,
+            "question": "What is the name of the vast urban forest in Rio?",
+            "answer": "Tijuca",
+            "oneLiner": "One of the world's largest urban forests."
+          },
+          {
+            "index": 4,
+            "question": "What unique festival transforms Rio into an art form?",
+            "answer": "Carnival",
+            "oneLiner": "A world-famous celebration of music and dance."
+          },
+          {
+            "index": 5,
+            "question": "Which desert-like area has unique lagoons formed by rain?",
+            "answer": "Lençóis Maranhenses",
+            "oneLiner": "Known for its sand dunes and seasonal lagoons."
+          },
+          {
+            "index": 6,
+            "question": "What is the unique river in Brazil that runs without a defined course?",
+            "answer": "Pororoca",
+            "oneLiner": "A tidal bore that occurs in the Amazon River."
+          },
+          {
+            "index": 7,
+            "question": "What plateau dominates Brazil’s interior region?",
+            "answer": "Brazilian Highlands",
+            "oneLiner": "Covers a significant portion of Brazil's land area."
+          },
+          {
+            "index": 8,
+            "question": "Which famous Brazilian mountain is shaped like a sugarloaf?",
+            "answer": "Pão de Açúcar",
+            "oneLiner": "A landmark in Rio de Janeiro."
+          },
+          {
+            "index": 9,
+            "question": "What river forms the natural border between Brazil and Uruguay?",
+            "answer": "Jaguarão",
+            "oneLiner": "Separates Brazil and Uruguay in the south."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What Brazilian island is known for its pristine beaches and eco-tourism?",
+            "answer": "Fernando de Noronha",
+            "oneLiner": "An archipelago and a protected marine park."
+          },
+          {
+            "index": 2,
+            "question": "What Brazilian region is known for its unique colonial architecture?",
+            "answer": "Minas Gerais",
+            "oneLiner": "Famous for its historic towns and gold mining heritage."
+          },
+          {
+            "index": 3,
+            "question": "What kind of a landform is Fernando de Noronha?",
+            "answer": "Archipelago",
+            "oneLiner": "A group of volcanic islands in the Atlantic."
+          },
+          {
+            "index": 4,
+            "question": "Which mountain range runs along Brazil's southeastern coast?",
+            "answer": "Serra do Mar",
+            "oneLiner": "A coastal range stretching through southeast Brazil."
+          },
+          {
+            "index": 5,
+            "question": "What city has the largest population in Brazil?",
+            "answer": "São Paulo",
+            "oneLiner": "A major financial and cultural hub."
+          },
+          {
+            "index": 6,
+            "question": "What are the unique pink river dolphins found in Brazil called?",
+            "answer": "Boto",
+            "oneLiner": "Freshwater dolphins native to the Amazon River."
+          },
+          {
+            "index": 7,
+            "question": "What coastal city is famous for its Afro-Brazilian culture?",
+            "answer": "Salvador",
+            "oneLiner": "Known for its music, dance, and cuisine."
+          },
+          {
+            "index": 8,
+            "question": "What large water body is known for its unique dark and light water mixing?",
+            "answer": "Meeting of Waters",
+            "oneLiner": "Where the Rio Negro and Amazon rivers converge."
+          },
+          {
+            "index": 9,
+            "question": "What is the oldest national park in Brazil?",
+            "answer": "Itatiaia",
+            "oneLiner": "Established in 1937, located in the Atlantic Forest."
+          }
+        ]
+      }
+      
+    ]
+  }
+  

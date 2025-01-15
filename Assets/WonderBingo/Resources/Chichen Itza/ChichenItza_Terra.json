@@ -1,0 +1,179 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What is the capital of Mexico?",
+            "answer": "Mexico City",
+            "oneLiner" : "The largest city and political hub of Mexico."
+          },
+          {
+            "index": 2,
+            "question": "Which river forms part of Mexico’s northern border?",
+            "answer": "Rio Grande",
+            "oneLiner" : "A major river separating Mexico and the United States."
+          },
+          {
+            "index": 3,
+            "question": "What is the largest desert in Mexico?",
+            "answer": "Chihuahuan",
+            "oneLiner" : "A vast desert shared with the United States."
+          },
+          {
+            "index": 4,
+            "question": "Which peninsula is famous for its Mayan ruins?",
+            "answer": "Yucatán",
+            "oneLiner" : "Home to iconic archaeological sites."
+          },
+          {
+            "index": 5,
+            "question": "What is the highest peak in Mexico?",
+            "answer": "Pico de Orizaba",
+            "oneLiner" : "The tallest mountain in Mexico and a dormant volcano."
+          },
+          {
+            "index": 6,
+            "question": "Which city is home to the Pyramid of the Sun?",
+            "answer": "Teotihuacan",
+            "oneLiner" : "An ancient Mesoamerican city near Mexico City."
+          },
+          {
+            "index": 7,
+            "question": "What is Mexico’s largest freshwater lake?",
+            "answer": "Chapala",
+            "oneLiner" : "A vital water source in western Mexico."
+          },
+          {
+            "index": 8,
+            "question": "Which gulf lies on Mexico's eastern coast?",
+            "answer": "Gulf of Mexico",
+            "oneLiner" : "A large gulf bordering Mexico, the U.S., and Cuba."
+          },
+          {
+            "index": 9,
+            "question": "What unique ecosystem is found in the Lacandon Jungle?",
+            "answer": "Rainforest",
+            "oneLiner" : "A biodiverse tropical forest in southern Mexico."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "Which mountain range runs along Mexico's western coast?",
+            "answer": "Sierra Madre Occidental",
+            "oneLiner" : "A major mountain range forming Mexico's backbone."
+          },
+          {
+            "index": 2,
+            "question": "Which peninsula extends into the Pacific Ocean?",
+            "answer": "Baja California",
+            "oneLiner" : " Known for its coastal beauty and marine life."
+          },
+          {
+            "index": 3,
+            "question": "Which Mexican city is known for its silver mines and colonial architecture?",
+            "answer": "Guanajuato",
+            "oneLiner" : "A UNESCO World Heritage Site."
+          },
+          {
+            "index": 4,
+            "question": "What unique geological feature is found in the Copper Canyon?",
+            "answer": "Deep Canyons",
+            "oneLiner" : "Larger and deeper than the Grand Canyon."
+          },
+          {
+            "index": 5,
+            "question": "Which beach town is famous for its dramatic cliffs and diving?",
+            "answer": "Acapulco",
+            "oneLiner" : "A historic resort town on Mexico’s Pacific coast."
+          },
+          {
+            "index": 6,
+            "question": "What volcano famously erupted in 1943 in a farmer’s field?",
+            "answer": "Paricutín",
+            "oneLiner" : "A young volcano that emerged in Michoacán."
+          },
+          {
+            "index": 7,
+            "question": "Which city is famous for the Day of the Dead celebrations?",
+            "answer": "Oaxaca",
+            "oneLiner" : "Known for its vibrant cultural traditions."
+          },
+          {
+            "index": 8,
+            "question": "Which ancient Mayan city is known for its well-preserved observatory?",
+            "answer": "Chichen Itza",
+            "oneLiner" : "Features the Temple of Kukulkan and El Caracol observatory."
+          },
+          {
+            "index": 9,
+            "question": "What natural sinkhole formations are common in the Yucatán Peninsula?",
+            "answer": "Cenotes",
+            "oneLiner" : "Natural wells used by the Maya for water and rituals."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "Which river runs through Mexico’s Copper Canyon?",
+            "answer": "Urique",
+            "oneLiner" : "A major river cutting through the canyon system."
+          },
+          {
+            "index": 2,
+            "question": "Which region is known for its mariachi music and tequila?",
+            "answer": "Jalisco",
+            "oneLiner" : "A cultural heartland of Mexico."
+          },
+          {
+            "index": 3,
+            "question": "What unique underwater museum is found off the coast of Cancun?",
+            "answer": "MUSA",
+            "oneLiner" : "A museum featuring submerged sculptures."
+          },
+          {
+            "index": 4,
+            "question": "Which volcano is the second-highest peak in Mexico?",
+            "answer": "Popocatépetl",
+            "oneLiner" : "An active stratovolcano near Mexico City."
+          },
+          {
+            "index": 5,
+            "question": "What desert is known for its unique flora, including giant cacti?",
+            "answer": "Sonoran",
+            "oneLiner" : "A desert with diverse plant life."
+          },
+          {
+            "index": 6,
+            "question": "Which Mexican city is famous for its baroque architecture and cuisine?",
+            "answer": "Puebla",
+            "oneLiner" : "Known for its mole and historic churches."
+          },
+          {
+            "index": 7,
+            "question": "Which ancient civilization built the city of Palenque?",
+            "answer": "Maya",
+            "oneLiner" : "A prominent pre-Columbian civilization."
+          },
+          {
+            "index": 8,
+            "question": "Which island off the coast of Quintana Roo is a popular dive spot?",
+            "answer": "Cozumel",
+            "oneLiner" : "Known for its coral reefs and marine biodiversity."
+          },
+          {
+            "index": 9,
+            "question": "Which mountain range separates the central plateau from the coast?",
+            "answer": "Sierra Madre Oriental",
+            "oneLiner" : "Runs parallel to the Gulf of Mexico."
+          }
+        ]
+      }
+    ]
+  }
+  

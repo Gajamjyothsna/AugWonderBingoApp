@@ -1,0 +1,296 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "Which ancient civilization built Petra?",
+          "answer": "Nabataeans",
+          "oneLiner": "An ancient Arabian tribe."
+        },
+        {
+          "index": 2,
+          "question": "In which century was Petra founded?",
+          "answer": "4th century BC",
+          "oneLiner": "A time period over 2,300 years ago."
+        },
+        {
+          "index": 3,
+          "question": "What was Petra primarily known for in ancient times?",
+          "answer": "Trade hub",
+          "oneLiner": "A center for commerce and exchange."
+        },
+        {
+          "index": 4,
+          "question": "Who rediscovered Petra in 1812?",
+          "answer": "Burckhardt",
+          "oneLiner": "A Swiss explorer."
+        },
+        {
+          "index": 5,
+          "question": "What does the name 'Petra' mean in Greek?",
+          "answer": "Rock",
+          "oneLiner": "Derived from the Greek word 'Petros.'"
+        },
+        {
+          "index": 6,
+          "question": "What empire took control of Petra in 106 AD?",
+          "answer": "Roman Empire",
+          "oneLiner": "A dominant ancient European empire."
+        },
+        {
+          "index": 7,
+          "question": "What role did Petra play in the incense trade?",
+          "answer": "Center for trade",
+          "oneLiner": "A key hub in the incense route."
+        },
+        {
+          "index": 8,
+          "question": "Which famous structure in Petra served as a tomb?",
+          "answer": "Al-Khazneh",
+          "oneLiner": "Also known as 'The Treasury.'"
+        },
+        {
+          "index": 9,
+          "question": "What led to the decline of Petra?",
+          "answer": "Trade shift",
+          "oneLiner": "A change in trade routes."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What architectural style is Petra known for?",
+          "answer": "Rock-cut",
+          "oneLiner": "Structures carved directly into cliffs."
+        },
+        {
+          "index": 2,
+          "question": "What role did the Nabataeans play in Petra’s history?",
+          "answer": "Founders",
+          "oneLiner": "They established Petra as their capital."
+        },
+        {
+          "index": 3,
+          "question": "Which Roman emperor annexed Petra into the Roman Empire?",
+          "answer": "Trajan",
+          "oneLiner": "A Roman ruler known for expanding the empire."
+        },
+        {
+          "index": 4,
+          "question": "What was the purpose of the Monastery (Al-Deir) in Petra?",
+          "answer": "Ceremonies",
+          "oneLiner": "A site for religious and ceremonial activities."
+        },
+        {
+          "index": 5,
+          "question": "Which ancient empire first controlled Petra before the Nabataeans?",
+          "answer": "Edomites",
+          "oneLiner": "An early Semitic-speaking people."
+        },
+        {
+          "index": 6,
+          "question": "What major natural disaster damaged Petra in 363 AD?",
+          "answer": "Earthquake",
+          "oneLiner": "A devastating seismic event."
+        },
+        {
+          "index": 7,
+          "question": "What was Petra’s role under Roman rule?",
+          "answer": "Capital",
+          "oneLiner": "The provincial capital of Arabia Petraea."
+        },
+        {
+          "index": 8,
+          "question": "Which deity was primarily worshipped in Petra?",
+          "answer": "Dushara",
+          "oneLiner": "A Nabataean god associated with mountains."
+        },
+        {
+          "index": 9,
+          "question": "What happened to Petra during the Islamic conquest?",
+          "answer": "Decline",
+          "oneLiner": "It lost its importance."
+        }
+      ]
+    },
+    
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What ancient trade route passed through Petra?",
+          "answer": "Incense Route",
+          "oneLiner": "An ancient trade network for aromatic goods."
+        },
+        {
+          "index": 2,
+          "question": "What was the primary building material used by the Nabataeans in Petra?",
+          "answer": "Sandstone",
+          "oneLiner": "A type of sedimentary rock."
+        },
+        {
+          "index": 3,
+          "question": "What role did Petra play in the Roman Empire?",
+          "answer": "Trading post",
+          "oneLiner": "A hub for goods and commerce."
+        },
+        {
+          "index": 4,
+          "question": "What title did Petra hold under the Nabataean Kingdom?",
+          "answer": "Capital",
+          "oneLiner": "The seat of Nabataean power."
+        },
+        {
+          "index": 5,
+          "question": "How did Petra’s geographical location benefit its economy?",
+          "answer": "Trade routes",
+          "oneLiner": "It was strategically located at a trade crossroads."
+        },
+        {
+          "index": 6,
+          "question": "Which ancient culture influenced Petra’s architectural style?",
+          "answer": "Hellenistic",
+          "oneLiner": "A blend of Greek and local styles."
+        },
+        {
+          "index": 7,
+          "question": "What military event led to the decline of Nabataean Petra?",
+          "answer": "Annexation",
+          "oneLiner": "Conquered by the Romans."
+        },
+        {
+          "index": 8,
+          "question": "Which famous tomb is carved into Petra’s cliffs?",
+          "answer": "Royal Tombs",
+          "oneLiner": "Elaborate burial sites of Nabataean kings."
+        },
+        {
+          "index": 9,
+          "question": "What led to the abandonment of Petra?",
+          "answer": "Earthquakes",
+          "oneLiner": "Repeated seismic damage."
+        }
+      ]
+    },
+    
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What feature of Petra made it defensible against invaders?",
+          "answer": "Siq canyon",
+          "oneLiner": "A narrow gorge leading into the city."
+        },
+        {
+          "index": 2,
+          "question": "How did the Nabataeans control water in Petra?",
+          "answer": "Water system",
+          "oneLiner": "Ingenious canals and reservoirs."
+        },
+        {
+          "index": 3,
+          "question": "What was Petra’s status under the Byzantine Empire?",
+          "answer": "Pilgrimage site",
+          "oneLiner": "A destination for Christian pilgrims."
+        },
+        {
+          "index": 4,
+          "question": "Who was the last Nabataean king to rule Petra before Roman annexation?",
+          "answer": "Rabbel II",
+          "oneLiner": "The final Nabataean monarch."
+        },
+        {
+          "index": 5,
+          "question": "What role did Petra play during the Crusades?",
+          "answer": "Occupied by Romans",
+          "oneLiner": "Briefly used by Crusaders as a base."
+        },
+        {
+          "index": 6,
+          "question": "What artistic influence can be seen in Petra's monuments?",
+          "answer": "Greco-Roman",
+          "oneLiner": "A blend of Greek and Roman styles."
+        },
+        {
+          "index": 7,
+          "question": "What was Petra’s relationship with neighbouring tribes and kingdoms?",
+          "answer": "Diplomacy",
+          "oneLiner": "Alliances and peaceful coexistence."
+        },
+        {
+          "index": 8,
+          "question": "What did Petra symbolize for the Nabataeans?",
+          "answer": "Wealth and Power",
+          "oneLiner": "A sign of their prosperity."
+        },
+        {
+          "index": 9,
+          "question": "What historical artifact is associated with Petra’s water management system?",
+          "answer": "Aqueducts",
+          "oneLiner": "Ancient water channels."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What year was Petra designated as a UNESCO World Heritage Site?",
+          "answer": "1985",
+          "oneLiner": "Recognized for its cultural significance."
+        },
+        {
+          "index": 2,
+          "question": "How did Petra regain international attention in the modern era?",
+          "answer": "Rediscovery",
+          "oneLiner": "Brought to light by Western explorers."
+        },
+        {
+          "index": 3,
+          "question": "What role did Petra play in regional politics during Nabataean times?",
+          "answer": "Diplomatic center",
+          "oneLiner": "A hub for negotiations and alliances."
+        },
+        {
+          "index": 4,
+          "question": "What significant religious transformation occurred in Petra during the Byzantine period?",
+          "answer": "Christianity",
+          "oneLiner": "The city adopted Christian practices."
+        },
+        {
+          "index": 5,
+          "question": "What empire controlled Petra after the Nabataeans?",
+          "answer": "Roman Empire",
+          "oneLiner": "The successor to Nabataean rule."
+        },
+        {
+          "index": 6,
+          "question": "How did Petra’s decline impact the surrounding region?",
+          "answer": "Trade loss",
+          "oneLiner": "A drop in regional commerce."
+        },
+        {
+          "index": 7,
+          "question": "What was Petra’s nickname due to its rediscovery in the 19th century?",
+          "answer": "Lost City",
+          "oneLiner": "Hidden for centuries."
+        },
+        {
+          "index": 8,
+          "question": "What was Petra’s role under Ottoman rule?",
+          "answer": "Ruins",
+          "oneLiner": "Largely abandoned and neglected."
+        },
+        {
+          "index": 9,
+          "question": "What modern archaeological techniques have been used to study Petra?",
+          "answer": "3D modeling",
+          "oneLiner": "Advanced technology for structural analysis."
+        }
+      ]
+    }
+  ]
+}

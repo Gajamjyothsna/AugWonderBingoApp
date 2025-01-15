@@ -1,0 +1,295 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "In which country is Christ the Redeemer located?",
+            "answer": "Brazil",
+            "oneLiner" : "A symbol of faith and national pride in Brazil."
+          },
+          {
+            "index": 2,
+            "question": "In which year was Christ the Redeemer completed?",
+            "answer": "1931",
+            "oneLiner" : "Marked the culmination of nine years of construction."
+          },
+          {
+            "index": 3,
+            "question": "Who was the main designer of Christ the Redeemer?",
+            "answer": "Heitor da Silva Costa",
+            "oneLiner" : " A Brazilian engineer and architect."
+          },
+          {
+            "index": 4,
+            "question": "What was the primary material used to construct Christ the Redeemer?",
+            "answer": "Reinforced concrete",
+            "oneLiner" : "A durable material for large-scale construction."
+          },
+          {
+            "index": 5,
+            "question": "Who sculpted the face of Christ the Redeemer?",
+            "answer": "Gheorghe Leonida",
+            "oneLiner" : " A Romanian sculptor."
+          },
+          {
+            "index": 6,
+            "question": "What was the main purpose of building Christ the Redeemer?",
+            "answer": "Symbol of Christianity",
+            "oneLiner" : "To represent faith and peace."
+          },
+          {
+            "index": 7,
+            "question": "Who commissioned the construction of Christ the Redeemer?",
+            "answer": "Brazilian Catholic Church",
+            "oneLiner" : "Advocated for a national religious monument."
+          },
+          {
+            "index": 8,
+            "question": "How tall is Christ the Redeemer, including its pedestal?",
+            "answer": "38 meters",
+            "oneLiner" : "One of the tallest statues of Jesus in the world."
+          },
+          {
+            "index": 9,
+            "question": "What event took place in 2007 regarding Christ the Redeemer?",
+            "answer": "New Seven Wonders",
+            "oneLiner" : "Named one of the New Seven Wonders of the World."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What inspired the idea to build Christ the Redeemer?",
+            "answer": "Peace, Christianity.",
+            "oneLiner" : "Symbolized faith and unity in Brazil."
+          },
+          {
+            "index": 2,
+            "question": "How long did it take to build Christ the Redeemer?",
+            "answer": "Nine years.",
+            "oneLiner" : "Constructed from 1922 to 1931."
+          },
+          {
+            "index": 3,
+            "question": "What role did Brazil's Catholic Church play in the creation of Christ the Redeemer?",
+            "answer": "Sponsored.",
+            "oneLiner" : "Funded and led the initiative."
+          },
+          {
+            "index": 4,
+            "question": "What major celebration was held for the 50th anniversary of Christ the Redeemer?",
+            "answer" : "Mass, events.",
+            "oneLiner": " Honored its historical and religious significance"
+          },
+          {
+            "index": 5,
+            "question": "Who contributed to the statue's design alongside Heitor da Silva Costa?",
+            "answer": "Paul Landowski",
+            "oneLiner" : "A French sculptor who worked on the design."
+          },
+          {
+            "index": 6,
+            "question": "What historical events did Christ the Redeemer survive?",
+            "answer": "Lightning strikes",
+            "oneLiner" : "Withstood natural challenges over decades."
+          },
+          {
+            "index": 7,
+            "question": "What is the significance of Christ the Redeemer’s outstretched arms?",
+            "answer": "Peace, welcoming",
+            "oneLiner" : "Represents inclusion and compassion."
+          },
+          {
+            "index": 8,
+            "question": "How was the construction of Christ the Redeemer funded?",
+            "answer": "Donations",
+            "oneLiner" : "Financial support from the public and church."
+          },
+          {
+            "index": 9,
+            "question": "What significant restoration was carried out on Christ the Redeemer in 2010?",
+            "answer": "Repairs",
+            "oneLiner" : "Included cleaning and structural reinforcement."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What was the role of French sculptor Paul Landowski in the creation of Christ the Redeemer?",
+            "answer": "Sculptor",
+            "oneLiner" : "Crafted the statue's details and design."
+          },
+          {
+            "index": 2,
+            "question": "What does Christ the Redeemer symbolize for Brazil?",
+            "answer": "Identity, faith",
+            "oneLiner" : "A national icon representing religious heritage."
+          },
+          {
+            "index": 3,
+            "question": "In which decade was the idea for Christ the Redeemer first proposed?",
+            "answer": "1850s",
+            "oneLiner" : "An early concept for a national monument."
+          },
+          {
+            "index": 4,
+            "question": "How does Christ the Redeemer reflect Brazil’s religious heritage?",
+            "answer": "Catholic majority",
+            "oneLiner" : "Embodies the faith of a predominantly Catholic nation."
+          },
+          {
+            "index": 5,
+            "question": "What was the original proposed location for Christ the Redeemer?",
+            "answer": "Sugarloaf Mountain",
+            "oneLiner" : "Considered before Mount Corcovado was chosen."
+          },
+          {
+            "index": 6,
+            "question": "What challenges were faced during the construction of Christ the Redeemer?",
+            "answer": "Material transport",
+            "oneLiner" : "Difficulties due to the statue’s remote location."
+          },
+          {
+            "index": 7,
+            "question": "How did modern engineering help in building Christ the Redeemer?",
+            "answer": "Reinforced concrete",
+            "oneLiner" : "Ensured stability and durability."
+          },
+          {
+            "index": 8,
+            "question": "What role does Christ the Redeemer play during religious holidays in Brazil?",
+            "answer": "Pilgrimage site",
+            "oneLiner" : "A focal point for Christian worship."
+          },
+          {
+            "index": 9,
+            "question": "What famous religious figure was consulted on the design of Christ the Redeemer?",
+            "answer": "Cardinal Leme",
+            "oneLiner" : "Played a key role in its approval."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What was the reason behind choosing Mount Corcovado for Christ the Redeemer?",
+            "answer": "Visibility",
+            "oneLiner" : "Offers a commanding view of Rio de Janeiro."
+          },
+          {
+            "index": 2,
+            "question": "How did World War I affect the construction of Christ the Redeemer?",
+            "answer": "Delayed",
+            "oneLiner" : "Postponed due to global conflicts."
+          },
+          {
+            "index": 3,
+            "question": "What was the significance of the 1931 inauguration of Christ the Redeemer?",
+            "answer": "Christian dedication",
+            "oneLiner" : "Marked as a symbol of faith and unity."
+          },
+          {
+            "index": 4,
+            "question": "How has Christ the Redeemer influenced modern religious art?",
+            "answer": "Iconic symbol",
+            "oneLiner" : "A globally recognized religious landmark."
+          },
+          {
+            "index": 5,
+            "question": "What was the role of Heitor da Silva Costa in the construction of Christ the Redeemer?",
+            "answer": "Chief designer",
+            "oneLiner" : "Oversaw the project from concept to completion."
+          },
+          {
+            "index": 6,
+            "question": "How did Rio de Janeiro’s status as a cultural hub influence the creation of Christ the Redeemer?",
+            "answer": "National symbol",
+            "oneLiner" : "Enhanced its significance for Brazil."
+          },
+          {
+            "index": 7,
+            "question": "What materials were used to cover the exterior of Christ the Redeemer?",
+            "answer": "Soapstone",
+            "oneLiner" : "Provided a smooth and durable finish."
+          },
+          {
+            "index": 8,
+            "question": "How has Christ the Redeemer been a symbol of peace in modern times?",
+            "answer": "Global peace symbol",
+            "oneLiner" : "Represents harmony and unity worldwide."
+          },
+          {
+            "index": 9,
+            "question": "What role did Christ the Redeemer play during Brazil’s 2016 Olympic Games?",
+            "answer": "Unity, peace",
+            "oneLiner" : "A centerpiece for global solidarity."
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "How did Brazil's centennial independence celebration influence the building of Christ the Redeemer?",
+            "answer": "National pride",
+            "oneLiner" : "Strengthened the push for a monumental statue."
+          },
+          {
+            "index": 2,
+            "question": "What advancements in construction techniques were used for Christ the Redeemer?",
+            "answer": "Reinforced concrete",
+            "oneLiner" : "Provided strength and longevity."
+          },
+          {
+            "index": 3,
+            "question": "How did the Catholic Church influence the decision to build Christ the Redeemer?",
+            "answer": "United nation",
+            "oneLiner" : "Sought to bring the country together in faith."
+          },
+          {
+            "index": 4,
+            "question": "What was the artistic significance of Christ the Redeemer’s Art Deco style?",
+            "answer": "Popular style",
+            "oneLiner" : "Showcased contemporary design trends."
+          },
+          {
+            "index": 5,
+            "question": "How does Christ the Redeemer reflect the cultural heritage of Brazil?",
+            "answer": "Faith, pride",
+            "oneLiner" : "Embodies the nation’s religious and cultural values."
+          },
+          {
+            "index": 6,
+            "question": "What was the historical significance of the statue's 75th anniversary in 2006?",
+            "answer": "Restoration",
+            "oneLiner" : "Marked with repairs and celebrations."
+          },
+          {
+            "index": 7,
+            "question": "How does Christ the Redeemer influence tourism in Brazil?",
+            "answer": "Major attraction",
+            "oneLiner" : "A top destination for visitors worldwide."
+          },
+          {
+            "index": 8,
+            "question": "How has Christ the Redeemer been recognized globally?",
+            "answer": "New Seven Wonders",
+            "oneLiner" : "Gained global acclaim in 2007."
+          },
+          {
+            "index": 9,
+            "question": "What was the significance of the nighttime lighting of Christ the Redeemer in 1931?",
+            "answer": "City visibility",
+            "oneLiner" : "Made it a prominent nighttime landmark."
+          }
+        ]
+      }
+    ]
+  }
+  

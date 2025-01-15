@@ -1,0 +1,178 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the capital city of India?",
+          "answer": "New Delhi",
+          "oneLiner" : "The administrative capital of India."
+        },
+        {
+          "index": 2,
+          "question": "What is the main river near the Taj Mahal?",
+          "answer": "Yamuna",
+          "oneLiner" : "A major river in northern India."
+        },
+        {
+          "index": 3,
+          "question": "Which Indian festival celebrates lights?",
+          "answer": "Diwali",
+          "oneLiner" : "A Hindu festival symbolizing the triumph of light over darkness."
+        },
+        {
+          "index": 4,
+          "question": "What is the currency of India?",
+          "answer": "Rupee",
+          "oneLiner" : "The official currency of India."
+        },
+        {
+          "index": 5,
+          "question": "What is India’s largest mountain range?",
+          "answer": "Himalayas",
+          "oneLiner" : "The world’s highest mountain range."
+        },
+        {
+          "index": 6,
+          "question": "Which sea borders western India?",
+          "answer": "Arabian Sea",
+          "oneLiner" : " A part of the Indian Ocean located to the west of India."
+        },
+        {
+          "index": 7,
+          "question": "Which port city is famous in India?",
+          "answer": "Mumbai",
+          "oneLiner" : "India’s largest and busiest port city."
+        },
+        {
+          "index": 8,
+          "question": "Which city is the 'Silicon Valley' of India?",
+          "answer": "Bangalore",
+          "oneLiner" : "Known for its thriving IT industry."
+        },
+        {
+          "index": 9,
+          "question": "Which film industry is Mumbai famous for?",
+          "answer": "Bollywood",
+          "oneLiner" : "The Hindi-language film industry of India."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "Which is the largest state in India?",
+          "answer": "Rajasthan",
+          "oneLiner" : "Known for its vast desert and historical forts."
+        },
+        {
+          "index": 2,
+          "question": "Which tree is considered sacred in India?",
+          "answer": "Banyan",
+          "oneLiner" : " India’s national tree, often worshipped."
+        },
+        {
+          "index": 3,
+          "question": "Which ocean borders India to the south?",
+          "answer": "Indian Ocean",
+          "oneLiner" : "The third-largest ocean in the world."
+        },
+        {
+          "index": 4,
+          "question": "Which city is known for its backwaters in India?",
+          "answer": "Kerala",
+          "oneLiner" : " Famous for its serene waterways and houseboats."
+        },
+        {
+          "index": 5,
+          "question": "Which sport is most popular in India?",
+          "answer": "Cricket",
+          "oneLiner" : "The most-followed sport in the country."
+        },
+        {
+          "index": 6,
+          "question": "Which monument is called the 'Symbol of Love'?",
+          "answer": "Taj Mahal",
+          "oneLiner" : "A mausoleum built by Shah Jahan for Mumtaz Mahal."
+        },
+        {
+          "index": 7,
+          "question": "Which famous fort built by Shah Jahan in Delhi is known as the ‘Lal Qila’?",
+          "answer": "Red Fort",
+          "oneLiner" : "A UNESCO World Heritage Site in Delhi."
+        },
+        {
+          "index": 8,
+          "question": "What type of traditional clothing is widely worn by women in India?",
+          "answer": "Saree",
+          "oneLiner" : " A long garment draped around the body."
+        },
+        {
+          "index": 9,
+          "question": "Which river is considered holy in India?",
+          "answer": "Ganges",
+          "oneLiner" : "A sacred river in Hinduism."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the name of India’s national park famous for tigers?",
+          "answer": "Ranthambore",
+          "oneLiner" : "A wildlife reserve in Rajasthan."
+        },
+        {
+          "index": 2,
+          "question": "Which coastal city is known for its beaches in India?",
+          "answer": "Goa",
+          "oneLiner" : "A popular tourist destination on India’s west coast."
+        },
+        {
+          "index": 3,
+          "question": "Which is the biggest jungle cat alive today in India?",
+          "answer": "Royal Bengal Tiger",
+          "oneLiner" : "India’s national animal and apex predator."
+        },
+        {
+          "index": 4,
+          "question": "Which famous Indian city is a UNESCO World Heritage Site?",
+          "answer": "Jaipur",
+          "oneLiner" : " Known as the 'Pink City' of India."
+        },
+        {
+          "index": 5,
+          "question": "What is the traditional form of Indian dance in the south?",
+          "answer": "Bharatanatyam",
+          "oneLiner" : "A classical dance form from Tamil Nadu."
+        },
+        {
+          "index": 6,
+          "question": "Which region in India is known for its unique salt desert landscape?",
+          "answer": "Rann of Kutch",
+          "oneLiner" : "A white salt marsh in Gujarat."
+        },
+        {
+          "index": 7,
+          "question": "Which Indian island group is known for its coral reefs?",
+          "answer": "Andaman and Nicobar Islands",
+          "oneLiner" : "A tropical paradise in the Bay of Bengal."
+        },
+        {
+          "index": 8,
+          "question": "Which Indian state is known for its floating islands in the Loktak Lake?",
+          "answer": "Manipur",
+          "oneLiner" : "A northeastern state with unique natural features."
+        },
+        {
+          "index": 9,
+          "question": "Which Indian plateau is known for its ancient volcanic origin?",
+          "answer": "Deccan Plateau",
+          "oneLiner" : "A large plateau covering much of southern India."
+        }
+      ]
+    }
+  ]
+}

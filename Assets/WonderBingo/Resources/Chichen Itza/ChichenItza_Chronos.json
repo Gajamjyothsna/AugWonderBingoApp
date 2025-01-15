@@ -1,0 +1,70 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {"index": 1, "question": "Which civilization built Chichen Itza?", "answer": "Maya", "oneLiner" : " A pre-Columbian civilization of Mesoamerica."},
+          {"index": 2, "question": "In which century was Chichen Itza founded?", "answer": "6th century AD", "oneLiner" : " During the early Maya Post-Classic period."},
+          {"index": 3, "question": "What was the primary purpose of the Temple of Kukulkan?", "answer": "Religious ceremonies", "oneLiner" : "Dedicated to the feathered serpent deity Kukulkan."},
+          {"index": 4, "question": "Who was the main deity worshipped at Chichen Itza?", "answer": "Kukulkan", "oneLiner" : "A serpent deity representing wind and rain."},
+          {"index": 5, "question": "What event led to the decline of Chichen Itza?", "answer": "Conflict, drought", "oneLiner" : "Internal strife and environmental challenges."},
+          {"index": 6, "question": "What was the name of the sacred well used for sacrifices?", "answer": "Cenote Sagrado", "oneLiner" : "A natural sinkhole used for offerings."},
+          {"index": 7, "question": "What type of ball game was played at Chichen Itza?", "answer": "Mesoamerican ballgame", "oneLiner" : "A ritualistic sport involving a rubber ball."},
+          {"index": 8, "question": "How did the Maya use astronomy in Chichen Itza?", "answer": "Aligned temples", "oneLiner" : "Structures designed to track celestial events."},
+          {"index": 9, "question": "What was the primary function of the El Caracol observatory?", "answer": "Astronomy", "oneLiner" : "Studied celestial movements."}
+        ]
+      },
+      {
+        "questions": [
+          {"index": 1, "question": "What architectural style is seen in the buildings at Chichen Itza?", "answer": "Puuc, Toltec", "oneLiner" : "A fusion of local and external influences."},
+          {"index": 2, "question": "How did Chichen Itza reflect Maya political power?", "answer": "Regional dominance", "oneLiner" : "A major center of control and influence."},
+          {"index": 3, "question": "Which famous structure in Chichen Itza features a pyramid with 365 steps?", "answer": "Temple of Kukulkan", "oneLiner" : " Represents the Maya calendar."},
+          {"index": 4, "question": "When did Chichen Itza become a UNESCO World Heritage Site?", "answer": "1988", "oneLiner" : "Recognized for its cultural and historical significance."},
+          {"index": 5, "question": "What type of sacrifices were made in the Cenote Sagrado?", "answer": "Human sacrifices", "oneLiner" : "Ritual offerings to the gods."},
+          {"index": 6, "question": "How did the Toltec influence impact Chichen Itza's architecture?", "answer": "Militaristic elements", "oneLiner" : "Added warrior motifs and militaristic themes."},
+          {"index": 7, "question": "Which ancient city rivaled Chichen Itza in power?", "answer": "Uxmal", "oneLiner" : "Another significant Maya city."},
+          {"index": 8, "question": "What was the role of the Great Ball Court in Maya culture?", "answer": "Rituals, sports", "oneLiner" : " Served as a site for ceremonial games."},
+          {"index": 9, "question": "What year was Chichen Itza abandoned?", "answer": "13th century AD", "oneLiner" : "Declined during the late Post-Classic period."}
+        ]
+      },
+      {
+        "questions": [
+          {"index": 1, "question": "What was the purpose of the Temple of the Warriors?", "answer": "Military, religious", "oneLiner" : "A structure combining worship and militaristic symbolism."},
+          {"index": 2, "question": "How did Chichen Itza demonstrate Maya engineering skills?", "answer": "Water management", "oneLiner" : " Efficient use of cenotes and irrigation systems.."},
+          {"index": 3, "question": "What historical era is Chichen Itza associated with?", "answer": "Post-Classic", "oneLiner" : "A peak period of Maya cultural activity."},
+          {"index": 4, "question": "Which European explorer rediscovered Chichen Itza?", "answer": "John Lloyd Stephens", "oneLiner" : "Documented its ruins in the 19th century."},
+          {"index": 5, "question": "What was the significance of the Great North Platform at Chichen Itza?", "answer": "Ceremonial center", "oneLiner" : "Hosted important religious events."},
+          {"index": 6, "question": "How did the Maya civilization impact the development of Chichen Itza?", "answer": "Cultural, religious", "oneLiner" : " Shaped its architecture and rituals."},
+          {"index": 7, "question": "What were the columns of the Temple of the Warriors used for?", "answer": "Support, decoration", "oneLiner" : "Represented warriors and structural strength."},
+          {"index": 8, "question": "How was Chichen Itza connected to other Maya cities?", "answer": "Trade routes", "oneLiner" : " A hub for regional commerce."},
+          {"index": 9, "question": "What materials were primarily used in the construction of Chichen Itza?", "answer": "Limestone", "oneLiner" : "A durable and abundant local resource."}
+        ]
+      },
+      {
+        "questions": [
+          {"index": 1, "question": "How did the Maya calendar influence the design of Chichen Itza?", "answer": "Aligned with equinox", "oneLiner" : "Incorporated astronomical precision."},
+          {"index": 2, "question": "What role did cenotes play in the life of Chichen Itza?", "answer": "Water, sacrifices", "oneLiner" : "Provided water and a site for offerings."},
+          {"index": 3, "question": "What was the significance of the Platform of Skulls at Chichen Itza?", "answer": "Displayed heads", "oneLiner" : " Showcased captured enemies or sacrificial victims."},
+          {"index": 4, "question": "Which Maya ruler is often associated with the expansion of Chichen Itza?", "answer": "K'ak'upakal", "oneLiner" : " A powerful leader during its peak."},
+          {"index": 5, "question": "What was the significance of the Temple of the Jaguars?", "answer": "Temple, ballcourt view", "oneLiner" : "Overlooked the Great Ball Court."},
+          {"index": 6, "question": "How did Chichen Itza reflect the power of the Maya elite?", "answer": "Grand monuments", "oneLiner" : "Demonstrated wealth and authority."},
+          {"index": 7, "question": "What was the main role of the Mercado (Market) at Chichen Itza?", "answer": "Trade", "oneLiner" : "Facilitated commerce and exchange."},
+          {"index": 8, "question": "How did religious beliefs shape the architecture of Chichen Itza?", "answer": "Aligned with astronomy", "oneLiner" : "Designed to honor celestial events."},
+          {"index": 9, "question": "How did Chichen Itza's location impact its growth?", "answer": "Trade, cenotes", "oneLiner" : "Benefited from water access and trade networks."}
+        ]
+      },
+      {
+        "questions": [
+          {"index": 1, "question": "What was the importance of the Sacred Cenote in Maya culture?", "answer": "Offerings, sacrifices", "oneLiner" : "A key site for religious rituals."},
+          {"index": 2, "question": "How did the Maya use the Pyramid of Kukulkan for astronomy?", "answer": "Marked equinoxes", "oneLiner" : "Cast shadows resembling a serpent.."},
+          {"index": 3, "question": "What led to the fall of Chichen Itza?", "answer": "Drought, unrest", "oneLiner" : "Environmental and social challenges."},
+          {"index": 4, "question": "Which Spanish conquistador passed through the Yucat\u00e1n Peninsula near Chichen Itza?", "answer": "Francisco de Montejo", "oneLiner" : "An early explorer of the region."},
+          {"index": 5, "question": "What cultural significance does the Jaguar Throne in the Temple of the Jaguars hold?", "answer": "Royal power", "oneLiner" : "Symbolized the authority of rulers."},
+          {"index": 6, "question": "How did Chichen Itza contribute to Maya religious practices?", "answer": "Worship site", "oneLiner" : "A central location for spiritual activities."},
+          {"index": 7, "question": "What role did the Chac Mool statues play in Maya rituals?", "answer": "Sacrifices", "oneLiner" : "Held offerings for deities."},
+          {"index": 8, "question": "What military structure is found near the Temple of the Warriors?", "answer": "Wall of the Serpents", "oneLiner" : "A defensive and symbolic structure."},
+          {"index": 9, "question": "What kind of inscriptions are found on the Temple of the Warriors?", "answer": "Warriors, jaguars", "oneLiner" : "Depict military and spiritual imagery."}
+        ]
+      }
+    ]
+  }
+  

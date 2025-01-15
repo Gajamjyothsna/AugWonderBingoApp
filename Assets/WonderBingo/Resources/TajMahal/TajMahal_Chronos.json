@@ -1,0 +1,294 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What material is primarily used in the construction of the Taj Mahal?",
+          "answer": "Marble",
+          "oneLiner" : " A metamorphic rock used in sculptures and buildings."
+        },
+        {
+          "index": 2,
+          "question": "Who was the chief architect of the Taj Mahal?",
+          "answer": "Ustad Ahmad Lahauri",
+          "oneLiner": "A prominent Mughal-era architect."
+        },
+        {
+          "index": 3,
+          "question": "The Taj Mahal is a symbol of love. What kind of building is it?",
+          "answer": "Mausoleum",
+          "oneLiner" : "A structure housing a tomb."
+        },
+        {
+          "index": 4,
+          "question": "What does the name 'Taj Mahal' mean?",
+          "answer": "Crown Palace",
+          "oneLiner" : "Translation of 'Taj Mahal.'"
+        },
+        {
+          "index": 5,
+          "question": "Which Mughal King built the Taj Mahal?",
+          "answer": "Shah Jahan",
+          "oneLiner": "Fifth Mughal emperor of India."
+        },
+        {
+          "index": 6,
+          "question": "Which Mughal Emperor imprisoned Shah Jahan at Agra Fort?",
+          "answer": "Aurangzeb",
+          "oneLiner": " Sixth Mughal emperor and son of Shah Jahan."
+        },
+        {
+          "index": 7,
+          "question": "Which great Indian poet called the Taj Mahal 'a teardrop on the cheek of time'?",
+          "answer": "Rabindranath Tagore",
+          "oneLiner" : "Nobel-winning Indian poet and philosopher."
+        },
+        {
+          "index": 8,
+          "question": "From which distant regions did some of the skilled workers who built the Taj Mahal come?",
+          "answer": "Iran and Turkey",
+          "oneLiner": "Countries known for their rich cultural heritage."
+        },
+        {
+          "index": 9,
+          "question": "Who was the Taj Mahal built in memory of?",
+          "answer": "Mumtaz Mahal",
+          "oneLiner" : "The wife of Shah Jahan, a Mughal empress."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "How many years did it take to build the Taj Mahal?",
+          "answer": "Twenty",
+          "oneLiner" : "Number after nineteen and before twenty-one."
+        },
+        {
+          "index": 2,
+          "question": "In which year was the construction of the Taj Mahal completed?",
+          "answer": "1653",
+          "oneLiner": "A year in the 17th century."
+        },
+        {
+          "index": 3,
+          "question": "How many minarets are there around the Taj Mahal?",
+          "answer": "Four",
+          "oneLiner": "A whole number after three and before five."
+        },
+        {
+          "index": 4,
+          "question": "When was the Taj Mahal designated as a UNESCO World Heritage Site?",
+          "answer": "1983",
+          "oneLiner": "Year when the World Heritage designation was awarded."
+        },
+        {
+          "index": 5,
+          "question": "How long did Shah Jahan rule the Mughal Empire?",
+          "answer": "Thirty years",
+          "oneLiner": "A span of three decades."
+        },
+        {
+          "index": 6,
+          "question": "What was the capital of Shah Jahan's empire?",
+          "answer": "Agra",
+          "oneLiner" : "A historical city in Uttar Pradesh, India."
+        },
+        {
+          "index": 7,
+          "question": "How many workers were involved in constructing the Taj Mahal?",
+          "answer": "20,000",
+          "oneLiner" : "A large number of people."
+        },
+        {
+          "index": 8,
+          "question": "What unique feature of the Taj Mahal's design exemplifies its perfect symmetry, except for one element?",
+          "answer": "Cenotaphs",
+          "oneLiner" : " Empty tombs often built as monuments."
+        },
+        {
+          "index": 9,
+          "question": "Which prestigious list of global landmarks includes the Taj Mahal?",
+          "answer": "Seven Wonders",
+          "oneLiner" : "A list of remarkable human-made structures."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What geometric layout is the garden of the Taj Mahal based on?",
+          "answer": "Charbagh",
+          "oneLiner" : "A Persian-style geometric garden layout."
+        },
+        {
+          "index": 2,
+          "question": "What kind of decorative technique was used to create the artwork on the Taj Mahal?",
+          "answer": "Inlay",
+          "oneLiner" : "A decorative technique of embedding materials into a surface."
+        },
+        {
+          "index": 3,
+          "question": "What colour does the Taj Mahal appear during sunset?",
+          "answer": "Golden",
+          "oneLiner" : "A yellow metallic color associated with gold."
+        },
+        {
+          "index": 4,
+          "question": "What type of calligraphy is inscribed on the walls of the Taj Mahal?",
+          "answer": "Quranic",
+          "oneLiner" : "Related to the Quran, the holy book of Islam."
+        },
+        {
+          "index": 5,
+          "question": "Who succeeded Shah Jahan as the ruler of the Mughal Empire?",
+          "answer": "Aurangzeb",
+          "oneLiner": "Mughal emperor known for expanding the empire."
+        },
+        {
+          "index": 6,
+          "question": "Where was Shah Jahan imprisoned in his final years?",
+          "answer": "Agra Fort",
+          "oneLiner" : "A UNESCO World Heritage Site in India."
+        },
+        {
+          "index": 7,
+          "question": "What is another famous structure Shah Jahan is remembered for building?",
+          "answer": "Red Fort",
+          "oneLiner" : "A historic fort in Delhi built by Shah Jahan."
+        },
+        {
+          "index": 8,
+          "question": "Approximately how much money in today's currency was spent to build the Taj Mahal?",
+          "answer": "$1 billion",
+          "oneLiner" : "An approximate amount equivalent to 1,000 million dollars."
+        },
+        {
+          "index": 9,
+          "question": "What architectural style does the Taj Mahal exemplify?",
+          "answer": "Indo-Islamic",
+          "oneLiner" : "An architectural style combining Indian and Islamic elements."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "In which year did the construction of the Taj Mahal begin?",
+          "answer": "1632",
+          "oneLiner" : "A year in the early modern period."
+        },
+        {
+          "index": 2,
+          "question": "Who was responsible for the preservation of the Taj Mahal during British rule?",
+          "answer": "Lord Curzon",
+          "oneLiner" : "A British viceroy of India."
+        },
+        {
+          "index": 3,
+          "question": "Which river flows beside the Taj Mahal, giving it a scenic backdrop?",
+          "answer": "Yamuna",
+          "oneLiner" : "A major river flowing through northern India."
+        },
+        {
+          "index": 4,
+          "question": "What event in Shah Jahan's life prompted the construction of the Taj Mahal?",
+          "answer": "Death of Mumtaz Mahal",
+          "oneLiner" : "The passing of Shah Jahan’s wife."
+        },
+        {
+          "index": 5,
+          "question": "What category did UNESCO recognize the Taj Mahal under when it was named a World Heritage Site?",
+          "answer": "Cultural",
+          "oneLiner" : " Relating to the arts, beliefs, and customs of a society."
+        },
+        {
+          "index": 6,
+          "question": "Which Mughal Emperor is known for expanding the Mughal Empire's territory?",
+          "answer": "Akbar",
+          "oneLiner" : "A Mughal emperor known for his administrative reforms."
+        },
+        {
+          "index": 7,
+          "question": "Who is the founder of the Mughal dynasty in India?",
+          "answer": "Babur",
+          "oneLiner" : "Founder of the Mughal dynasty in India."
+        },
+        {
+          "index": 8,
+          "question": "Which Mughal Emperor built Humayun's Tomb, another famous monument?",
+          "answer": "Humayun",
+          "oneLiner" : "The second Mughal emperor of India."
+        },
+        {
+          "index": 9,
+          "question": "What was the relationship between Shah Jahan and Aurangzeb?",
+          "answer": "Father and Son",
+          "oneLiner" : "A familial relationship."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the large dome on top of the Taj Mahal called?",
+          "answer": "Onion dome",
+          "oneLiner" : "A dome shaped like an onion."
+        },
+        {
+          "index": 2,
+          "question": "How large is the Taj Mahal complex?",
+          "answer": "Forty-Two acres",
+          "oneLiner" : "A measurement of land area."
+        },
+        {
+          "index": 3,
+          "question": "What is the purpose of the large pool in front of the Taj Mahal?",
+          "answer": "To reflect Taj Mahal",
+          "oneLiner" : "The purpose of a symmetrical water pool."
+        },
+        {
+          "index": 4,
+          "question": "What building stands next to the Taj Mahal used for prayers?",
+          "answer": "Mosque",
+          "oneLiner" : "A place of worship for Muslims."
+        },
+        {
+          "index": 5,
+          "question": "Which French traveler documented Shah Jahan's plan to build a second mausoleum?",
+          "answer": "Jean-Baptiste Tavernier",
+          "oneLiner" : " A French traveler and gem merchant."
+        },
+        {
+          "index": 6,
+          "question": "What was the name of the planned monument that Shah Jahan intended to build?",
+          "answer": "The Black Taj",
+          "oneLiner" : " A rumored, unbuilt mausoleum."
+        },
+        {
+          "index": 7,
+          "question": "Which European traveler recorded the construction of the Taj Mahal?",
+          "answer": "Peter Mundy",
+          "oneLiner" : "An English traveler and chronicler."
+        },
+        {
+          "index": 8,
+          "question": "What event delayed the completion of Shah Jahan's plan for a second mausoleum?",
+          "answer": "War with his Sons",
+          "oneLiner" : "A conflict involving Shah Jahan’s heirs."
+        },
+        {
+          "index": 9,
+          "question": "How many children did Shah Jahan and Mumtaz Mahal have?",
+          "answer": "Fourteen",
+          "oneLiner" : "Total number of their children."
+        }
+      ]
+    }
+  ]
+}

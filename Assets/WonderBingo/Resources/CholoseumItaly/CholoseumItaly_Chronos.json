@@ -1,0 +1,300 @@
+{
+    "grids": [
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "Who commissioned the construction of the Colosseum?",
+            "answer": "Vespasian",
+            "oneLiner": "The founder of the Flavian dynasty."
+          },
+          {
+            "index": 2,
+            "question": "What year did construction of the Colosseum begin?",
+            "answer": "72 AD",
+            "oneLiner": "Initiated during Vespasian's reign."
+          },
+          {
+            "index": 3,
+            "question": "What was the Colosseum primarily used for?",
+            "answer": "Gladiator fights",
+            "oneLiner": "Hosted violent spectacles for public entertainment."
+          },
+          {
+            "index": 4,
+            "question": "Which emperor completed the Colosseum?",
+            "answer": "Titus",
+            "oneLiner": "Vespasian's son and successor."
+          },
+          {
+            "index": 5,
+            "question": "What was the original Latin name of the Colosseum?",
+            "answer": "Flavian Amphitheatre",
+            "oneLiner": "Named after the Flavian dynasty."
+          },
+          {
+            "index": 6,
+            "question": "What historical event occurred during the opening of the Colosseum?",
+            "answer": "100 days of games",
+            "oneLiner": "Celebrated with grand events and spectacles."
+          },
+          {
+            "index": 7,
+            "question": "What type of public events were held in the Colosseum?",
+            "answer": "Animal hunts",
+            "oneLiner": "Featured exotic animals and hunters."
+          },
+          {
+            "index": 8,
+            "question": "How many people could the Colosseum seat?",
+            "answer": "50,000",
+            "oneLiner": "One of the largest amphitheaters of its time."
+          },
+          {
+            "index": 9,
+            "question": "What was the Colosseum’s significance in Roman society?",
+            "answer": "Entertainment, propaganda",
+            "oneLiner": "Showcased the power and generosity of the emperors."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What architectural style is the Colosseum known for?",
+            "answer": "Roman architecture",
+            "oneLiner": "Characterized by arches and concrete construction."
+          },
+          {
+            "index": 2,
+            "question": "What material was primarily used in the construction of the Colosseum?",
+            "answer": "Travertine stone",
+            "oneLiner": "A durable limestone commonly used in Roman buildings."
+          },
+          {
+            "index": 3,
+            "question": "How many levels does the Colosseum have?",
+            "answer": "Four",
+            "oneLiner": "Designed to accommodate large crowds efficiently."
+          },
+          {
+            "index": 4,
+            "question": "What purpose did the underground chambers (hypogeum) serve in the Colosseum?",
+            "answer": "Holding animals, gladiators",
+            "oneLiner": "Used for staging events and storing equipment."
+          },
+          {
+            "index": 5,
+            "question": "Which Roman emperor banned gladiatorial games in the Colosseum?",
+            "answer": "Honorius",
+            "oneLiner": "Ended the bloody spectacles in the 5th century."
+          },
+          {
+            "index": 6,
+            "question": "What natural disaster caused significant damage to the Colosseum?",
+            "answer": "Earthquake",
+            "oneLiner": "Weakened its structure over centuries."
+          },
+          {
+            "index": 7,
+            "question": "What religious significance did the Colosseum gain over time?",
+            "answer": "Christian martyrdom",
+            "oneLiner": "Believed to be a site of early Christian persecution."
+          },
+          {
+            "index": 8,
+            "question": "What was the role of Emperor Domitian in the Colosseum’s history?",
+            "answer": "Added tunnels",
+            "oneLiner": "Expanded the hypogeum for better event management."
+          },
+          {
+            "index": 9,
+            "question": "What does the Colosseum symbolize today?",
+            "answer": "Roman culture",
+            "oneLiner": "A testament to Rome's architectural and cultural legacy."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What year was the Colosseum completed?",
+            "answer": "80 AD",
+            "oneLiner": "Finished under Emperor Titus."
+          },
+          {
+            "index": 2,
+            "question": "What Roman dynasty is associated with the Colosseum's construction?",
+            "answer": "Flavian dynasty",
+            "oneLiner": "Built during the reigns of Vespasian, Titus, and Domitian."
+          },
+          {
+            "index": 3,
+            "question": "What was the function of the velarium in the Colosseum?",
+            "answer": "Shade",
+            "oneLiner": "A retractable roof to protect spectators from the sun."
+          },
+          {
+            "index": 4,
+            "question": "What type of naval battles were reenacted in the Colosseum?",
+            "answer": "Naumachiae",
+            "oneLiner": "Simulated water battles for entertainment."
+          },
+          {
+            "index": 5,
+            "question": "Which emperor was the last to conduct games in the Colosseum?",
+            "answer": "Theodoric",
+            "oneLiner": "A Gothic king in late antiquity."
+          },
+          {
+            "index": 6,
+            "question": "How did the Colosseum reflect the power of the Roman Empire?",
+            "answer": "Wealth, engineering",
+            "oneLiner": "Demonstrated Rome's technological and economic strength."
+          },
+          {
+            "index": 7,
+            "question": "What animal species were often used in games at the Colosseum?",
+            "answer": "Lions, tigers",
+            "oneLiner": "Exotic animals imported for spectacle."
+          },
+          {
+            "index": 8,
+            "question": "Who were the gladiators that fought in the Colosseum?",
+            "answer": "Slaves, prisoners",
+            "oneLiner": "Fought for their freedom or punishment."
+          },
+          {
+            "index": 9,
+            "question": "What was the purpose of the Colosseum after the fall of the Roman Empire?",
+            "answer": "Quarry",
+            "oneLiner": "Stones were reused for other constructions."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What was the seating arrangement in the Colosseum based on?",
+            "answer": "Social class",
+            "oneLiner": "Higher classes sat closer to the arena."
+          },
+          {
+            "index": 2,
+            "question": "How many arches are there on the exterior of the Colosseum?",
+            "answer": "80",
+            "oneLiner": "Supported the massive structure."
+          },
+          {
+            "index": 3,
+            "question": "What role did Emperor Titus play during the Colosseum's inauguration?",
+            "answer": "Hosted games",
+            "oneLiner": "Organized events to celebrate its completion."
+          },
+          {
+            "index": 4,
+            "question": "What was Emperor Vespasian's role in the construction of the Colosseum?",
+            "answer": "Commissioned it",
+            "oneLiner": "Initiated its construction."
+          },
+          {
+            "index": 5,
+            "question": "How long did the games in the Colosseum typically last?",
+            "answer": "Full day",
+            "oneLiner": "Included morning, afternoon, and evening events."
+          },
+          {
+            "index": 6,
+            "question": "What significant use did the Colosseum serve in the medieval period?",
+            "answer": "Fortress",
+            "oneLiner": "Repurposed for defense by local rulers."
+          },
+          {
+            "index": 7,
+            "question": "What type of entertainment besides battles was held in the Colosseum?",
+            "answer": "Theatrical performances",
+            "oneLiner": "Dramatized stories and mythological reenactments."
+          },
+          {
+            "index": 8,
+            "question": "What was the function of the Colosseum’s retractable roof system (velarium)?",
+            "answer": "Sun protection",
+            "oneLiner": "Shielded spectators from heat."
+          },
+          {
+            "index": 9,
+            "question": "How was the Colosseum financed?",
+            "answer": "Jewish War spoils",
+            "oneLiner": "Funded with wealth acquired during Roman conquests."
+          }
+        ]
+      },
+      
+      {
+        "questions": [
+          {
+            "index": 1,
+            "question": "What modern events have been held at the Colosseum?",
+            "answer": "Good Friday processions",
+            "oneLiner": "A venue for Christian events."
+          },
+          {
+            "index": 2,
+            "question": "What major restoration efforts have been made to the Colosseum?",
+            "answer": "19th, 20th century",
+            "oneLiner": "Preserved for its historical and cultural value."
+          },
+          {
+            "index": 3,
+            "question": "What empire influenced the design of the Colosseum?",
+            "answer": "Roman Empire",
+            "oneLiner": "A pinnacle of Roman architectural achievement."
+          },
+          {
+            "index": 4,
+            "question": "What impact did the decline of the Roman Empire have on the Colosseum?",
+            "answer": "Abandoned",
+            "oneLiner": "Fell into disrepair during the Middle Ages."
+          },
+          {
+            "index": 5,
+            "question": "How was the Colosseum used after the end of gladiatorial games?",
+            "answer": "Christian shrine",
+            "oneLiner": "Honored as a sacred site."
+          },
+          {
+            "index": 6,
+            "question": "What did the Colosseum symbolize to Roman citizens?",
+            "answer": "Strength, unity",
+            "oneLiner": "Represented imperial power and public entertainment."
+          },
+          {
+            "index": 7,
+            "question": "What role did the Catholic Church play in the preservation of the Colosseum?",
+            "answer": "Sacred site",
+            "oneLiner": "Declared it a place of Christian reverence."
+          },
+          {
+            "index": 8,
+            "question": "What was the significance of the Colosseum in Roman propaganda?",
+            "answer": "Imperial power",
+            "oneLiner": "Demonstrated the might and generosity of emperors."
+          },
+          {
+            "index": 9,
+            "question": "What type of engineering techniques were used to build the Colosseum?",
+            "answer": "Arches, concrete",
+            "oneLiner": "Innovative methods ensuring durability and strength."
+          }
+        ]
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,178 @@
+{
+  "grids": [
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What is the capital of Jordan?",
+          "answer": "Amman",
+          "oneLiner": "The largest city and administrative capital of Jordan."
+        },
+        {
+          "index": 2,
+          "question": "Which famous ancient city is carved into rose-red rock?",
+          "answer": "Petra",
+          "oneLiner": "A UNESCO World Heritage site and iconic archaeological city."
+        },
+        {
+          "index": 3,
+          "question": "What is the lowest point on Earth found in Jordan?",
+          "answer": "Dead Sea",
+          "oneLiner": "Earth’s lowest elevation on land at 430 meters below sea level."
+        },
+        {
+          "index": 4,
+          "question": "Which desert covers most of eastern Jordan?",
+          "answer": "Arabian",
+          "oneLiner": "A vast desert extending across the Arabian Peninsula."
+        },
+        {
+          "index": 5,
+          "question": "Which river forms Jordan's western border?",
+          "answer": "Jordan River",
+          "oneLiner": "A biblical river flowing into the Dead Sea."
+        },
+        {
+          "index": 6,
+          "question": "Which mountain is traditionally associated with Moses' view of the Promised Land?",
+          "answer": "Mount Nebo",
+          "oneLiner": "A sacred mountain with biblical significance."
+        },
+        {
+          "index": 7,
+          "question": "What is the largest nature reserve in Jordan?",
+          "answer": "Dana Reserve",
+          "oneLiner": "A biodiverse area with unique wildlife and ecosystems."
+        },
+        {
+          "index": 8,
+          "question": "Which Gulf provides Jordan with its only coastline?",
+          "answer": "Aqaba",
+          "oneLiner": "A small stretch of coastline along the Red Sea."
+        },
+        {
+          "index": 9,
+          "question": "Which wadi is famous for its dramatic sandstone cliffs?",
+          "answer": "Wadi Rum",
+          "oneLiner": "A desert valley known for its stunning rock formations."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "What unique city is a UNESCO World Heritage site in Jordan?",
+          "answer": "Petra",
+          "oneLiner": "An ancient city known for its rock-cut architecture."
+        },
+        {
+          "index": 2,
+          "question": "Which desert castle is known for its Umayyad frescoes?",
+          "answer": "Qasr Amra",
+          "oneLiner": "A UNESCO site featuring Islamic-era frescoes."
+        },
+        {
+          "index": 3,
+          "question": "Which region of Jordan is known for its fertile farmland?",
+          "answer": "Jordan Valley",
+          "oneLiner": "A lush agricultural region along the Jordan River."
+        },
+        {
+          "index": 4,
+          "question": "What is the largest inland body of water shared by Jordan and Israel?",
+          "answer": "Dead Sea",
+          "oneLiner": "A hypersaline lake with therapeutic properties."
+        },
+        {
+          "index": 5,
+          "question": "Which Roman city in northern Jordan is known for its well-preserved ruins?",
+          "answer": "Jerash",
+          "oneLiner": "A site with impressive Greco-Roman architecture."
+        },
+        {
+          "index": 6,
+          "question": "Which canyon in Jordan is popular for hiking and nature exploration?",
+          "answer": "Wadi Mujib",
+          "oneLiner": "A canyon with trails and biodiversity near the Dead Sea."
+        },
+        {
+          "index": 7,
+          "question": "Which Gulf of the Red Sea is Jordan’s access to international waters?",
+          "answer": "Aqaba",
+          "oneLiner": "Jordan’s maritime gateway to the world."
+        },
+        {
+          "index": 8,
+          "question": "What plateau in Jordan is known for its volcanic basalt landscape?",
+          "answer": "Harrat al-Sham",
+          "oneLiner": "A basaltic plateau spanning Jordan and neighboring countries."
+        },
+        {
+          "index": 9,
+          "question": "Due to its saltiness, what is the Dead Sea famous for?",
+          "answer": "Buoyancy",
+          "oneLiner": "Enables floating effortlessly due to its high salt content."
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "index": 1,
+          "question": "Which modern city in Jordan is known for its ancient Roman theater?",
+          "answer": "Amman",
+          "oneLiner": "Features a well-preserved Roman amphitheater."
+        },
+        {
+          "index": 2,
+          "question": "What river is significant for its association with biblical events?",
+          "answer": "Jordan River",
+          "oneLiner": "Mentioned in the Bible, including Jesus’ baptism."
+        },
+        {
+          "index": 3,
+          "question": "Which Jordanian desert is known for its rock formations and Bedouin culture?",
+          "answer": "Wadi Rum",
+          "oneLiner": "A UNESCO site often called the 'Valley of the Moon.'"
+        },
+        {
+          "index": 4,
+          "question": "What archaeological site is famous for its Bronze Age settlement in Jordan?",
+          "answer": "Tell es-Sultan",
+          "oneLiner": "An ancient city known for its archaeological significance."
+        },
+        {
+          "index": 5,
+          "question": "Which hot springs are located near the Dead Sea and are known for their therapeutic properties?",
+          "answer": "Ma'in",
+          "oneLiner": "Natural hot springs popular for relaxation and wellness."
+        },
+        {
+          "index": 6,
+          "question": "What is the name of the castle built by the Crusaders in Jordan?",
+          "answer": "Karak",
+          "oneLiner": "A historic fortress used during the Crusades."
+        },
+        {
+          "index": 7,
+          "question": "Which ancient city is believed to have been destroyed along with Sodom and Gomorrah?",
+          "answer": "Bab edh-Dhra",
+          "oneLiner": "A site associated with the biblical story."
+        },
+        {
+          "index": 8,
+          "question": "Which plateau is known for its strategic military importance in Jordan's history?",
+          "answer": "Golan Heights",
+          "oneLiner": "A historically significant and contested plateau."
+        },
+        {
+          "index": 9,
+          "question": "What unique religious site is associated with John the Baptist’s baptism of Jesus?",
+          "answer": "Bethany Beyond the Jordan",
+          "oneLiner": "A Christian pilgrimage site along the Jordan River."
+        }
+      ]
+    }
+  ]
+}
